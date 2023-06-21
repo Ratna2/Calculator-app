@@ -13,7 +13,3 @@ Once installed, open the app and you will be presented with the calculator scree
 ## Contributing
 
 Contributions to this project are welcome. If you find any bugs or issues, please submit an issue in the [issues](https://github.com/yourusername/calculator-app/issues) section of this repository. Pull requests are also welcome.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify this app as per your requirements.
